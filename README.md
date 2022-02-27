@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Tanimul Islam
 #### I'm an Android Application Developer!!
-![I'm an Android Application Developer!!](https://scontent-amt2-1.xx.fbcdn.net/v/t31.18172-1/26240730_2031690817107610_8394625996576925695_o.jpg?stp=dst-jpg_p160x160&_nc_cat=106&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeEJtYBn6A5Fzr3GM7IAv__Q5xWLgKw9L7_nFYuArD0vv9SBjTqYp6c4a_8rk81_OpkL1qzcQxby2MJSw_fYjsiP&_nc_ohc=l008ddShbV0AX82dJAi&_nc_ht=scontent-amt2-1.xx&oh=00_AT_TEIFu6EVWAiwQFgPdfBJjcCiM3X6tTpuC-HE2Oz-dvg&oe=62415331)
-
+![I'm an Android Application Developer!!]
 
 Skills:  ANDROID / JAVA / KOTLIN / DATA STRUCTURE / ALGORITHM /DATABASE/ C / PYTHON 
 

@@ -10,6 +10,8 @@ Skills:  ANDROID / JAVA / KOTLIN / DATA STRUCTURE / ALGORITHM /DATABASE/ C / PYT
 - ⚡ Fun fact: I love to play
 - 👯 I’m looking to collaborate with other developer
 
+### Connect with me:
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tanimul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanimul-islam-131102232/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tanimulislam.fuad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18262004)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanimul)](https://github.com/anuraghazra/github-readme-stats)
@@ -19,3 +21,18 @@ Skills:  ANDROID / JAVA / KOTLIN / DATA STRUCTURE / ALGORITHM /DATABASE/ C / PYT
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Tanimul)  
 
 ![Profile views](https://gpvc.arturio.dev/Tanimul)  
+
+<table cellspacing="0" cellpadding="0" style="border:none;" align="center">
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyaburaihan&theme=dark&layout=compact" alt="tanimul" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanimul&show_icons=true&theme=dark&line_height=27&count_private=true&hide=issues" alt="tanimul" />
+    </td>
+   </tr>
+</table>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronyaburaihan&theme=dark&layout=compact)](https://github.com/ronyaburaihan/github-readme-stats)
+
+[![ronyaburaihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronyaburaihan&show_icons=true&theme=dark&line_height=27&count_private=true&hide=issues)](https://github.com/ronyaburaihan/github-readme-stats) -->

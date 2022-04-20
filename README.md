@@ -3,9 +3,12 @@
 
 Skills:  ANDROID / JAVA / KOTLIN / DATA STRUCTURE / ALGORITHM /DATABASE/ C / PYTHON 
 
-- 🔭 I’m currently working on  Prime Deal & Bazar Limited 
+- 🔭 I’m currently working on  Android Projects
 - 🌱 I’m currently learning Kotlin  
 - 💬 Ask me about Android Development, Programming Language,Database, Alogorithm and Data Structure. 
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play
+- 👯 I’m looking to collaborate with other developer
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tanimul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanimul-islam-131102232/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tanimulislam.fuad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18262004)  
 

@@ -11,8 +11,20 @@ SKILLS ->  ANDROID / JAVA / KOTLIN / DATA STRUCTURE / ALGORITHM /DATABASE/ C / P
 - 👯 I’m looking to collaborate with other developer
 
 ### Connect with me:
+<!-- [website]: https://ronyaburaihan.me -->
+[stackoverflow]: https://stackoverflow.com/users/18262004
+[facebook]: https://www.facebook.com/tanimulislam.fuad
+[instagram]: https://www.instagram.com/fuad7594
+[linkedin]: https://www.linkedin.com/in/tanimul-islam-131102232/
+[github]: https://github.com/Tanimul
 
-[<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0Uu0auB-_30X62d-vUYM-jhN4TkqPqgv6A&usqp=CAU' alt='github' height='40'>](https://github.com/Tanimul)  [<img src='https://www.citypng.com/public/uploads/preview/hd-square-white-outline-linkedin-icon-png-31624155196exv4kdg0si.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanimul-islam-131102232/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tanimulislam.fuad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18262004)  
+[<img align="left" alt="tanimul | github" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0Uu0auB-_30X62d-vUYM-jhN4TkqPqgv6A&usqp=CAU" />][github]
+[<img align="left" alt="tanimul | Stackoverflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />][stackoverflow]
+[<img align="left" alt="tanimul | LinkedIn" width="30px" src="https://www.citypng.com/public/uploads/preview/hd-square-white-outline-linkedin-icon-png-31624155196exv4kdg0si.png" />][linkedin]
+[<img align="left" alt="tanimul | Instagram" width="30px" src="https://www.pinclipart.com/picdir/middle/538-5385580_circle-clip-art-black-and-white.png" />][instagram]
+[<img align="left" alt="tanimul | Facebook" width="30px" src="https://www.freeiconspng.com/uploads/images-facebook-f-logo-png-transparent-background-page-2-29.png" />][facebook]
+
+<br />
 
 ### Languages and Tools:
 

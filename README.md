@@ -47,7 +47,7 @@ SKILLS ->  ANDROID / JAVA / KOTLIN / DATA STRUCTURE / ALGORITHM /DATABASE/ C / P
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 -->
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0Uu0auB-_30X62d-vUYM-jhN4TkqPqgv6A&usqp=CAU" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
@@ -77,6 +77,6 @@ SKILLS ->  ANDROID / JAVA / KOTLIN / DATA STRUCTURE / ALGORITHM /DATABASE/ C / P
    </tr>
 </table>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronyaburaihan&theme=dark&layout=compact)](https://github.com/ronyaburaihan/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanimul&theme=dark&layout=compact)](https://github.com/tanimul/github-readme-stats)
 
-[![ronyaburaihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronyaburaihan&show_icons=true&theme=dark&line_height=27&count_private=true&hide=issues)](https://github.com/ronyaburaihan/github-readme-stats) -->
+[![tanimul's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanimul&show_icons=true&theme=dark&line_height=27&count_private=true&hide=issues)](https://github.com/tanimul/github-readme-stats) -->

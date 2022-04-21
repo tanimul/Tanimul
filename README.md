@@ -69,7 +69,7 @@ SKILLS ->  ANDROID / JAVA / KOTLIN / DATA STRUCTURE / ALGORITHM /DATABASE/ C / P
 <table cellspacing="0" cellpadding="0" style="border:none;" align="center">
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyaburaihan&theme=dark&layout=compact" alt="tanimul" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanimul&theme=dark&layout=compact" alt="tanimul" />
     </td>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanimul&show_icons=true&theme=dark&line_height=27&count_private=true&hide=issues" alt="tanimul" />

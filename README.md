@@ -41,8 +41,6 @@ SKILLS ->  ANDROID / JAVA / KOTLIN / DATA STRUCTURE / ALGORITHM /DATABASE/ C / P
 <br />
 <br />
 
----
-
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanimul)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -53,6 +51,9 @@ SKILLS ->  ANDROID / JAVA / KOTLIN / DATA STRUCTURE / ALGORITHM /DATABASE/ C / P
 <!--
 ![Profile views](https://gpvc.arturio.dev/Tanimul)  
 -->
+
+---
+
 <table cellspacing="0" cellpadding="0" style="border:none;" align="center">
   <tr>
     <td>

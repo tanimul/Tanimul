@@ -47,7 +47,7 @@ SKILLS ->  ANDROID / JAVA / KOTLIN / DATA STRUCTURE / ALGORITHM /DATABASE/ C / P
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanimul&show_icons=true&count_private=true)  
 -->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Tanimul & theme=dark & align=center)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Tanimul & theme=dark)  
 <!--
 ![Profile views](https://gpvc.arturio.dev/Tanimul)  
 -->

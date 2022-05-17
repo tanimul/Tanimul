@@ -11,7 +11,7 @@ SKILLS ->  ANDROID / JAVA / KOTLIN / DATA STRUCTURE / ALGORITHM /DATABASE/ C / P
 - 👯 I’m looking to collaborate with other developer
 
 ### Connect with me:
- [website]: [https://tanimulslam.fuad.me](https://tanimul.github.io/)
+[website]: [https://tanimul.github.io]
 [stackoverflow]: https://stackoverflow.com/users/18262004
 [facebook]: https://www.facebook.com/tanimulislam.fuad
 [instagram]: https://www.instagram.com/fuad7594

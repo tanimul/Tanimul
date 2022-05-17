@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Tanimul Islam
 ## I'm an Android Application Developer!!
-
+[![Website](https://img.shields.io/website?label=ronyaburaihan.me&style=for-the-badge&url=https://tanimul.github.io)](https://tanimul.github.io)
 SKILLS ->  ANDROID / JAVA / KOTLIN / DATA STRUCTURE / ALGORITHM /DATABASE/ C / PYTHON 
 
 - 🔭 I’m currently working on  Android Projects
@@ -11,7 +11,6 @@ SKILLS ->  ANDROID / JAVA / KOTLIN / DATA STRUCTURE / ALGORITHM /DATABASE/ C / P
 - 👯 I’m looking to collaborate with other developer
 
 ### Connect with me:
-[website]: [https://tanimul.github.io]
 [stackoverflow]: https://stackoverflow.com/users/18262004
 [facebook]: https://www.facebook.com/tanimulislam.fuad
 [instagram]: https://www.instagram.com/fuad7594

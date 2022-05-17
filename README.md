@@ -4,7 +4,7 @@
 SKILLS ->  ANDROID / JAVA / KOTLIN / DATA STRUCTURE / ALGORITHM /DATABASE/ C / PYTHON 
 
 - 🔭 I’m currently working on  Android Projects
-- 🌱 I’m currently learning Kotlin  
+- 🌱 I’m currently learning Flutter  
 - 💬 Ask me about Android Development, Programming Language,Database, Alogorithm and Data Structure. 
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play

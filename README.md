@@ -3,11 +3,11 @@
 ## I'm an Android Application Developer!!
 SKILLS ->  ANDROID / JAVA / KOTLIN / DATA STRUCTURE / ALGORITHM /DATABASE/ C / PYTHON 
 
-- 🔭 I’m currently working on  Android Projects
+- 🔭 currenty i am working as an Android developer @Prime It 
 - 🌱 I’m currently learning Kotlin  
 - 💬 Ask me about Android Development, Programming Language,Database, Alogorithm and Data Structure. 
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play
+- ⚡ Fun fact: I like outdoor games like cricket, football
 - 👯 I’m looking to collaborate with other developer
 
 ### Connect with me:

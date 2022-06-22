@@ -3,7 +3,7 @@
 ## I'm an Android Application Developer!!
 SKILLS ->  ANDROID / JAVA / KOTLIN / DATA STRUCTURE / ALGORITHM /DATABASE/ C / PYTHON 
 
-- 🔭 Currenty i am working as an Android developer @Prime It 
+- 🔭 Currenty i am working as an Android developer [BiGM RESOURCES LTD](http://www.bigm-bd.com/). 
 - 🌱 I’m currently learning Kotlin  
 - 💬 Ask me about Android Development, Programming Language,Database, Alogorithm and Data Structure. 
 - 🥅 2022 Goals: Contribute more to Open Source projects

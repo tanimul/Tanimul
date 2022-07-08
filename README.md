@@ -61,7 +61,7 @@ SKILLS ->  ANDROID / JAVA / KOTLIN / DATA STRUCTURE / ALGORITHM /DATABASE/ C / P
 ![Profile views](https://gpvc.arturio.dev/Tanimul)  
 -->
 
------
+----
 
 <table cellspacing="0" cellpadding="0" style="border:none;" align="center">
   <tr>

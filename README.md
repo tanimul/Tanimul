@@ -3,8 +3,8 @@
 ## I'm an Android Application Developer!!
 SKILLS ->  ANDROID / JAVA / KOTLIN / DATA STRUCTURE / ALGORITHM /DATABASE/ C / PYTHON 
 
-- 🔭 Currenty i am working as an Android developer [BiGM RESOURCES LTD](http://www.bigm-bd.com/). 
-- 🌱 I’m currently learning Kotlin  
+- 🔭 Currenty i am working as an Android developer [BIGM RESOURCES LTD](http://www.bigm-bd.com/). 
+- 🌱 I’m currently learning Flutter  
 - 💬 Ask me about Android Development, Programming Language,Database, Alogorithm and Data Structure. 
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like outdoor games like cricket, football
@@ -30,9 +30,8 @@ SKILLS ->  ANDROID / JAVA / KOTLIN / DATA STRUCTURE / ALGORITHM /DATABASE/ C / P
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<!-- <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" /> -->
-
-<!-- <img align="left" alt="Dart" width="26px" src="https://draw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" /> -->
+<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+<img align="left" alt="Dart" width="26px" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" />
 <!--
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />

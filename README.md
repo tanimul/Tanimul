@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Tanimul Islam
+<!-- ### Hi there 👋, I'm Tanimul Islam -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=23&pause=1000&width=440&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BC+%2C+I'm+Tanimul+Islam)](https://github.com/tanimul)
+
 [![Website](https://img.shields.io/website?label=tanimul.me&style=for-the-badge&url=https://tanimul.github.io)](https://tanimul.github.io)
 ## I'm an Android Application Developer!!
 SKILLS ->  ANDROID / JAVA / KOTLIN / DATA STRUCTURE / ALGORITHM /DATABASE/ C / PYTHON 

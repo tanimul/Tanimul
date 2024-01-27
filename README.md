@@ -2,13 +2,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=23&pause=1000&width=440&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BC+%2C+I'm+Tanimul+Islam)](https://github.com/tanimul)
 
 [![Website](https://img.shields.io/website?label=tanimul.me&style=for-the-badge&url=https://tanimul.github.io)](https://tanimul.github.io)
-## I'm an Android Application Developer!!
-SKILLS ->  ANDROID / JAVA / KOTLIN / DATA STRUCTURE / ALGORITHM /DATABASE/ C / PYTHON 
+## I'm a Mobile Application Developer!!
+SKILLS ->  ANDROID / JAVA / KOTLIN / DATA STRUCTURE / ALGORITHM / DATABASE / C / PYTHON 
 
-- 🔭 Currenty i am working as an Android developer [BIGM RESOURCES LTD](http://www.bigm-bd.com/). 
+- 🔭 Currenty i'm working as an Android Engineer [Doctime](https://doctime.com.bd/). 
 - 🌱 I’m currently learning Flutter  
 - 💬 Ask me about Android Development, Programming Language,Database, Alogorithm and Data Structure. 
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like outdoor games like cricket, football
 - 👯 I’m looking to collaborate with other developer
 
@@ -16,8 +16,8 @@ SKILLS ->  ANDROID / JAVA / KOTLIN / DATA STRUCTURE / ALGORITHM /DATABASE/ C / P
 [stackoverflow]: https://stackoverflow.com/users/18262004
 [facebook]: https://www.facebook.com/tanimulislam.fuad
 [instagram]: https://www.instagram.com/fuad7594
-[linkedin]: https://www.linkedin.com/in/tanimul-islam-131102232/
-[github]: https://github.com/Tanimul
+[linkedin]: https://www.linkedin.com/in/tanimul/
+[github]: https://github.com/tanimul
 
 [<img align="left" alt="tanimul | github" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0Uu0auB-_30X62d-vUYM-jhN4TkqPqgv6A&usqp=CAU" />][github]
 [<img align="left" alt="tanimul | Stackoverflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />][stackoverflow]
